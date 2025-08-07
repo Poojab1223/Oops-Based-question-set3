@@ -21,6 +21,7 @@ public class MainClass {
 			else {
 				Pasta pasta = (Pasta)listOfFoodItems[i];
 				pasta.getOrder();
+				pasta.getInfo();
 			}
 		}
 
