@@ -18,5 +18,4 @@ public class Pizza extends FoodItem{
 		// TODO Auto-generated method stub
 		System.out.println("cost: "+this.getCost()+" cookingTime: "+this.getCookingTime()+" ingredients: "+ this.getIngredients());
 	}
-
 }
