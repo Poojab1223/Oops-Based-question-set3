@@ -5,8 +5,6 @@ public class FixedDeposite extends Account{
 	public float rateOfInterest;
 	public int time;
 	
-	
-
 	public FixedDeposite(int prinicipleAmount, float rateOfInterest, int time) {
 		super();
 		this.prinicipleAmount = prinicipleAmount;
