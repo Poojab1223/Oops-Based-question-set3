@@ -6,8 +6,6 @@ public class MainClass {
 		Account account2 = new CurrentAccount();
 		Account account3 = new FixedDeposite(7464,0.5f,100);
 
-
-
 		Customer customer1 = new Customer();
 		customer1. setCustomerId(101);
 		customer1. setName("tom");
