@@ -12,15 +12,15 @@ public class MainClass {
 		for(int i = 0; i < listOfVehicle.length; i++) {
 			if(listOfVehicle[i] instanceof Car) {
 				Car car = (Car)listOfVehicle[i];
-				car.getTollAmount();
+				System.out.println(car.getTollAmount());
 			}
 			else if(listOfVehicle[i] instanceof Bike) {
 				Bike bike = (Bike)listOfVehicle[i];
-				bike.getTollAmount();
+				System.out.println(bike.getTollAmount());
 			}
 			else {
 				Truck truck=(Truck)listOfVehicle[i];
-				truck.getTollAmount();
+				System.out.println(truck.getTollAmount());
 			}
 		}
 		
