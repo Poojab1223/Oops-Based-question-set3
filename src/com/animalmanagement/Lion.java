@@ -18,5 +18,4 @@ public class Lion extends Animal{
 		// TODO Auto-generated method stub
 		System.out.println("roaring by lion!!!!!!");
 	}
-
 }

@@ -10,7 +10,7 @@ public class Monkey extends Animal{
 	@Override
 	public void eating() {
 		// TODO Auto-generated method stub
-		System.out.println("having yammy Bananaaaaaaaaaaa");
+		System.out.println("monkey having yammy Bananaaaaaaaaaaa");
 	}
 
 	@Override

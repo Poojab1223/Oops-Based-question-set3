@@ -10,7 +10,7 @@ public class Elephant extends Animal{
 	@Override
 	public void eating() {
 		// TODO Auto-generated method stub
-		System.out.println("having sugarcane!!!!!!!!");
+		System.out.println("elephant is having sugarcane!!!!!!!!");
 	}
 
 	@Override
